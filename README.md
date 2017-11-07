@@ -2,7 +2,7 @@
 First course of the Deep Learning Specialization.
 
 WEEK 1
-  Introduction to deep learning
+  Introduction to deep learning</br>
 WEEK 2
   Neural Networks Basics
 WEEK 3
